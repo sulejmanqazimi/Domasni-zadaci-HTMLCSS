@@ -1,0 +1,153 @@
+.div1{
+    
+    width: 270px;
+    height: 90px;
+    background-color:rgb(84, 229, 243);
+    border: solid;
+    border-color: black;
+    border-top-color: rgb(243, 67, 146);
+    border-bottom-color: rgb(14, 252, 212);
+    border-left-color: blue;
+    border-right-color: yellow;
+    border-width: 5px;
+    margin:auto
+}
+
+ .p1{
+    text-align: center;    
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+/* *{
+    box-sizing: border-box;
+} */
+
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color:white;
+    display:inline-block;
+} */
+
+#one img {
+    position:relative;
+    left: 100px;
+    width: 150px;
+    height: 100px;
+    border: dashed;
+    border-color: greenyellow;
+    border-width: 2.5px;
+
+}
+
+#two img {
+    position: relative;
+    left: 400px;
+    bottom:150px;
+    width: 150px;
+    height: 100px;
+    border: dashed;
+    border-color: greenyellow;
+    border-width: 2.5px;
+
+}
+
+#three img{
+    position: relative;
+    left: 700px;
+    bottom:200px;
+    width: 150px;
+    height: 100px;
+    border: dashed;
+    border-color: greenyellow;
+    border-width: 2.5px;
+    
+}
+
+.blocks
+{
+display:inline-block;
+}
+/* 
+.four{
+    position: relative;
+    left: 700px;
+    bottom:200px;
+    width: 150px;
+    height: 100px;
+    border: dashed;
+    border-color: greenyellow;
+    border-width: 2.5px;
+    
+} */
+
+#four{
+    position: relative;
+    left: 180px;
+    bottom: 100px;
+    display:inline-flex;
+    bottom:200px;
+    width: 150px;
+    height: 30px;
+    border: dashed;
+    background-color: green;
+    
+}
+
+
+.p2{
+        text-align:center;    
+        font-size:smaller;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: oblique;
+       
+        color:aliceblue;
+}
+
+#five{
+    position: relative;
+    left: 250px;
+    bottom: 100px;
+    display:inline-flex;
+    bottom:200px;
+    width: 150px;
+    height: 30px;
+    border: dashed;
+    background-color: green;
+}
+
+.p3{
+    text-align:center;    
+    font-size:smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+   
+    color:aliceblue;
+
+}
+
+
+#six{
+    position: relative;
+    left: 300px;
+    bottom: 100px;
+    display:inline-flex;
+    bottom:200px;
+    width: 150px;
+    height: 30px;
+    border: dashed;
+    background-color: green;
+}
+
+.p4{
+    text-align:center;    
+    font-size:smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+   
+    color:aliceblue;
+
+}
